@@ -1,1 +1,1 @@
-sks
+Mini Word App
