@@ -1,1 +1,1 @@
-hss
+Hidden number guessing game
